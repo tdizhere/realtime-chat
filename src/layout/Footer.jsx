@@ -19,21 +19,12 @@ export default function Footer() {
           {/* Built by{" "} */}
           {/* <a href="http://shimon-wosner.vercel.app" target="_blank"> */}
           <a
-            href="https://twitter.com/shwosner"
+            href="#"
             target="_blank"
             rel="noreferrer"
           >
             <FaTwitter style={{ display: "inline" }} />
-            @shwosner
-          </a>
-        </GridItem>
-        <GridItem justifySelf="end">
-          <a
-            href="https://github.com/shwosner/realtime-chat-supabase-react"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaGithub style={{ display: "inline" }} /> Source code
+            @TanmayDave
           </a>
         </GridItem>
       </Grid>
